@@ -17,7 +17,7 @@ plt.rcParams["figure.figsize"] = (12, 6)
 # --- Load and clean data ---
 @st.cache_data
 def load_data():
-    df = pd.read_csv("C:\Users\mn\PycharmProjects\data_analyst\mergeddd_output.csv")  # Adjust path as needed
+    df = pd.read_csv("C:\\Users\\mn\\PycharmProjects\\data_analyst\\mergeddd_output.csv")  # Adjust path as needed
     df.columns = df.columns.str.strip()
     return df
 
