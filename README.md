@@ -1,5 +1,5 @@
 # data-analyst
-nsightful Analysis of IT Salaries Across Europe
+
 
 📍 Overview
 This project aims to analyze Job tilte and salary trends among IT professionals in various European countries over a three-year period using data collected from anonymous annual surveys. The goal is to extract meaningful insights into how factors like experience, job role, location, and tech stack influence compensation across the continent.
